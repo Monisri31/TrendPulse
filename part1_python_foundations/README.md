@@ -65,3 +65,9 @@ The notebook covers:
 ### 8. Conclusion
 
 Part 1 demonstrates Python fundamentals and data structures through a practical dataset-cleaning and video-classification workflow. It prepares the dataset for further analysis in the next project parts.
+
+
+## Notebook Execution Note
+
+Run all notebook cells from top to bottom.
+For a fresh execution, restart the runtime and select Run all.
