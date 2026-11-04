@@ -113,3 +113,13 @@ The following output CSV files are generated:
 ## 10. Conclusion
 
 This part demonstrates how NumPy and Pandas can be used to clean, transform, summarize and analyze structured datasets. The resulting summaries provide a foundation for the visualization, exploratory data analysis and business interpretation in Part 3.
+
+## 11. Data Summary and Output Usage
+
+The cleaned dataset (`cleaned_trendpulse.csv`) contains the combined and cleaned video records from the US, GB and IN datasets.
+
+The `video_summary.csv` file contains video-level metrics such as peak views, average views, likes, comments, trending days and days to trend.
+
+The `channel_summary.csv` file contains channel-level metrics such as total trending records, unique videos, average views and maximum views.
+
+These output files can be reused in the visualization, exploratory data analysis and SQL sections of the TrendPulse project.
